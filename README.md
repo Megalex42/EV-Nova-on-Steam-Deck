@@ -31,11 +31,10 @@
  
 6. Move all EV Nova files to the Prefix, so your game should be in 
  
-/run/media/mmcblk0p1/Lutris/evnova/drive_c/EV Nova/
+- /run/media/mmcblk0p1/Lutris/evnova/drive_c/EV Nova/
  
-Also make sure EVNovaPatcher.exe is in the same folder as EV Nova.exe
+- Also make sure EVNovaPatcher.exe is in the same folder as EV Nova.exe
  
 6. Go back to Lutris, Click Play again, see if the game works. Then exit the game.
  
 7. While selecting the game Click the second button from the left, at the bottom, and choose "Run exe inside prefix", and run the Widescreen patch. Values are 1280, 800, 0, 0, 1280
- 
