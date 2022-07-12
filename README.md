@@ -1,38 +1,29 @@
 # EV-Nova-on-Steam-Deck
 
-1. Install lutris
+1. Install Lutris
+ - Install Flatseal, in flatseal, go to "All Applications" on the left, then scroll down to Filesystem and enable the bullet next to "All user files"
+    in the section "Other Files", put in /run/media/mmcblk0p1, then close flatseal (may not be necessary)
  
-1.2 Install Flatseal, in flatseal, go to "All Applications" on the left, then scroll down to Filesystem and enable the bullet next to "All user files"
-    in the section "Other Files", put in /run/media/mmcblk0p1, then close flatseal
- 
-2. download the files
- 
-main game: http://download.escape-velocity.games/EV%20Nova.zip
-
-widescreen patch: https://drive.google.com/open?id=1SrlJcznwJoCZHshnSGlmodWIuwHr-KoT
+2. Download the files:
+ - main game: http://download.escape-velocity.games/EV%20Nova.zip
+ - widescreen patch: https://drive.google.com/open?id=1SrlJcznwJoCZHshnSGlmodWIuwHr-KoT
  
 3. Setup a Prefix for Nova:
  
-Click + > Locally installed game >
+- Click + > Locally installed game >
+- Name: EV Nova
+- Runner: Wine
  
-Name: EV Nova
-Runner: Wine
+* Game Options > 
+- Executable: /run/media/mmcblk0p1/Lutris/evnova/drive_c/EV Nova/EV Nova.exe
+- Working directory: /run/media/mmcblk0p1/Lutris/evnova/drive_c/EV Nova/
+- Wine prefix: /run/media/mmcblk0p1/Lutris/evnova/
  
-Game Options >
+* Runner Options > 
+- Wine version: Choose any version that works (I used lutris-fshack-7.2-x86_64. These can be installed with ProtonUp-Qt app)
+- Enable dgvoodoo2 (may not be necessary)
  
-Executable: /run/media/mmcblk0p1/Lutris/evnova/drive_c/EV Nova/EV Nova.exe
-
-Working directory: /run/media/mmcblk0p1/Lutris/evnova/drive_c/EV Nova/
-
-Wine prefix: /run/media/mmcblk0p1/Lutris/evnova/
- 
-Runner Options >
- 
-Wine version: Choose any version that works (I used lutris-fshack-7.2-x86_64. These can be installed with ProtonUp-Qt app)
-
-Enable dgvoodoo2 (may not be necessary)
- 
-Click Save
+* Click Save
  
 4. The game should now show up on your Lutris list of games
  
