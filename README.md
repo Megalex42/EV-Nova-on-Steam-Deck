@@ -1,4 +1,4 @@
-# EV-Nova-on-Steam-Deck
+# Escape Velocity Nova on Steam Deck (And other Linux)
 
 1. Install Lutris
  - Install Flatseal, in flatseal, go to "All Applications" on the left, then scroll down to Filesystem and enable the bullet next to "All user files"
