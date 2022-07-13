@@ -1,8 +1,6 @@
 # Escape Velocity Nova on Steam Deck (And other Linux)
 
 1. Install Lutris
- - Install Flatseal, in flatseal, go to "All Applications" on the left, then scroll down to Filesystem and enable the bullet next to "All user files"
-    in the section "Other Files", put in /run/media/mmcblk0p1, then close flatseal (may not be necessary)
  
 2. Download the files:
  - Main game: http://download.escape-velocity.games/EV%20Nova.zip
