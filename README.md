@@ -17,7 +17,7 @@
 * Game Options > 
 - Executable: Browse to "EV Nova.exe"
 - Working directory: **Important**, this should be the same folder as "EV Nova.exe", otherwise it will say "Plug-Ins folder not found"
-- Wine prefix: Any folder where to store ~700mb of wine prefix files. You will never have to go into this folder.
+- Wine prefix: Any folder where to store ~700mb of wine prefix files. You will never have to go into this folder. If you don't know what to put, you can put `/home/deck/evnovaprefix`
   
 * Click Save
  
