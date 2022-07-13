@@ -8,7 +8,7 @@
  
 3. Setup a Prefix for Nova:
  
-* Click + (top left) > Locally installed game >
+* Open Lutris, Click + (top left) > Locally installed game >
 - Name: EV Nova
 - Runner: Wine
  
