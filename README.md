@@ -10,7 +10,7 @@
  
 3. Setup a Prefix for Nova:
  
-* Click + > Locally installed game >
+* Click + (top left) > Locally installed game >
 - Name: EV Nova
 - Runner: Wine
  
