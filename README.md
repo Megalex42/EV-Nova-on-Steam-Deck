@@ -10,11 +10,11 @@
  
 3. Setup a Prefix for Nova:
  
-- Click + > Locally installed game >
+* Click + > Locally installed game >
 - Name: EV Nova
 - Runner: Wine
  
-- Game Options > 
+* Game Options > 
 - Executable: Browse to "EV Nova.exe"
 - Working directory: **Important**, this should be the same folder as "EV Nova.exe", otherwise it will say "Plug-Ins folder not found"
 - Wine prefix: Any folder where to store ~700mb of wine prefix files. You will never have to go into this folder.
