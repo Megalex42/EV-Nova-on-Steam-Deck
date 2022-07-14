@@ -5,6 +5,7 @@
 2. Download the files:
  - Main game: http://download.escape-velocity.games/EV%20Nova.zip
  - 1280x800 prepatched exe: https://drive.google.com/open?id=1SrlJcznwJoCZHshnSGlmodWIuwHr-KoT
+ - WideScreen Patcher: https://drive.google.com/file/d/1SrlJcznwJoCZHshnSGlmodWIuwHr-KoT
  
 3. Setup a Prefix for Nova:
  
