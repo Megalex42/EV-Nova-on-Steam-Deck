@@ -3,7 +3,7 @@
 1. Install Lutris
  
 2. Download the files:
- - Main game: http://download.escape-velocity.games/EV%20Nova.zip
+ - Main game (right click and "save as", this a http link): http://download.escape-velocity.games/EV%20Nova.zip
  - 1280x800 prepatched exe: https://drive.google.com/open?id=1SrlJcznwJoCZHshnSGlmodWIuwHr-KoT
  - Widescreen Patch (see note at the end of doc): https://drive.google.com/file/d/1SrlJcznwJoCZHshnSGlmodWIuwHr-KoT
  
