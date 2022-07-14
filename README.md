@@ -24,6 +24,6 @@
  
 5. Click the game and click Play. After it creates the wine prefix, you may have to click Play again to start the game
  
-* If you want to apply the Widescreen patch yourself, values are 1280, 800, 0, 0, 1280 (Note: It will be difficult to apply it thru Linux because of the way the exe works, I suggest doing it in windows)
+* If you want to apply the Widescreen patch yourself, values are 1280, 800, 0, 0, 1280 (Note: It will be difficult to apply it thru Linux because of the way the exe works, I suggest doing it in windows. If you want to do it in Linux, select the prefix then click the second button and choose "Open Wine console" and do it from there)
 
 * Controller configs are currently WIP
