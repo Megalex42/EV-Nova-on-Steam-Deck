@@ -1,6 +1,7 @@
 # Escape Velocity Nova on Steam Deck (And other Linux)
 
 1. Install Lutris
+ - You may have to install a Wine runner, you can choose the latest version
  
 2. Download the files:
  - Main game (right click and "save as", this a http link): http://download.escape-velocity.games/EV%20Nova.zip
